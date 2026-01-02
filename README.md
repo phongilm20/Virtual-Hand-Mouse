@@ -4,7 +4,8 @@ Control your computer mouse using hand gestures through a webcam.
 Uses OpenCV, MediaPipe, and PyAutoGUI to track your index finger and convert movement into mouse control, with thumb+index pinch for clicking.
 
 ---
-
+## 📸 Test Images
+![Demo Screenshot](hand_mouse_demo.png)
 ## ✨ Features
 
 - Real-time hand tracking with **MediaPipe Hands**

@@ -69,15 +69,6 @@ python virtual_mouse.py
 
 ---
 
-## 🎥 Demo
-
-```
-[▶ Demo Video]
-<video src="https://github.com/phongilm20/Virtual-Hand-Mouse/blob/main/demo.mp4?raw=true" width="720" controls>
-</video>
-```
-
----
 
 ## ⚙️ How It Works
 

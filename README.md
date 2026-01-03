@@ -13,7 +13,8 @@ Uses OpenCV, MediaPipe, and PyAutoGUI to track your index finger and convert mov
 - **Left click** by pinching **thumb + index finger**
 - Purple rectangle = **control region** (no need to reach camera edges)
 - Smoothing to reduce cursor shaking
-
+  
+![Demo Screenshot](landmark.png)
 ---
 
 ## 🧰 Tech Stack
